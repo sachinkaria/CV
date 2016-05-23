@@ -1,20 +1,20 @@
 # Sachin Karia
 
 
-I’m amazing at creating both online and offline marketing campaigns... I’m also a kick ass test driven Rails Developer, just recently out of the Makers Academy code immersion course which has engrained in me a modern, collaborative & agile approach to coding. I work best with groups of optimistic people and early stage startups are a plus.
+I’m a sucker for positive disruption especially through software that brings together and connects people in different ways. I’m also a kick ass test driven Rails Developer, just recently out of the Makers Academy code immersion course which has engrained in me a modern, collaborative & agile approach to coding. In the past I have worked with and founded organisations which have been both successful and unsuccessful. I work best with groups of optimistic people and early stage startups are a plus.
 
 ## Skills
 
 ### Community Leadership
 
-At most organisations across every field a common goal is always undertaken; trying to create and grow a community of people who believe in what you're trying to achieve and are willing to follow you there. Utilising both online and offline resources to successfully generate a following has always been a strong point of mine.
+Utilising both online and offline resources to consistently grow and engage with a community has always been a second nature to me.
 
 ### Event Management
 
-Organising and hosting events to promote company culture, branding and community engagement has always been a strong methodology I have believed in. TBC
+I love organising and hosting events to promote company culture, branding and community engagement.
 
 ### Test Driven Development
-Test Driven Development primarily Ruby on Rails and AngularJS using RSpec, Capybara, Jasmine. TBC.
+ I have recently become somewhat enthusiastic about Test Driven Development primarily Ruby on Rails and AngularJS using Rspec, Capybara, Jasmine.
 
 ## Personal Projects
 
@@ -48,7 +48,8 @@ Qualifications which help to understand the bases of Accounting.
 - Founder & President TEDxAberdeenU
 
 ## Work Experience
-### Financial & Systems Consultant at Rinedata (2013-2015)
-### Co founder at Go Tutors (2012-2013)
-### Marketing and Business Development at Minival (2011-2013)
-### Founder and Head Organiser at TedxUnionTerrace (2011-2013)
+
+- Financial Systems Consultant at Rinedata (2013-2015)
+- Co-founder at Go Tutors (2012-2013)
+- Founder and Head Organiser at TedxUnionTerrace (2012-2013)
+- Marketing and Business Development at Minival (2011-2012)
