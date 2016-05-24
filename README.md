@@ -1,7 +1,7 @@
 # Sachin Karia
 
 
-I’m a sucker for positive disruption especially through software that brings together and connects people in different ways. I’m also a kick ass test driven Rails Developer, just recently out of the Makers Academy code immersion course which has engrained in me a modern, collaborative & agile approach to coding. In the past I have worked with and founded organisations which have been both successful and unsuccessful. I work best with groups of optimistic people and early stage startups are a plus.
+I’m a sucker for positive disruption especially through software that brings together and connects people in different ways. I’m also a kick ass test driven Rails Developer, just recently out of the Makers Academy code immersion course which has engrained in me a modern, collaborative & agile approach to coding. I'm sure as hell ready to build on my love for product development through learning and creating the ins and outs of what it takes to build beautiful software. I work best with teams of enthusiastic, optimistic individuals and early stage startups are a plus.
 
 ## Skills
 
@@ -9,12 +9,17 @@ I’m a sucker for positive disruption especially through software that brings t
 
 Utilising both online and offline resources to consistently grow and engage with a community has always been a second nature to me.
 
+- [Minival](https://www.facebook.com/minivalofficial)
+
 ### Event Management
 
 I love organising and hosting events to promote company culture, branding and community engagement.
 
-### Test Driven Development
+- TEDxUnionTerrace [2013](https://www.youtube.com/watch?v=F5Is6xzZkf4&list=PLsRNoUx8w3rMt0281K97CCY5F9vw8CqsX) & [2014](https://www.youtube.com/watch?v=fOYz8YANfmw&list=PLsRNoUx8w3rMUzriQ3wP0Lu9m9EVCFTLu)
+
+### Test Driven Development (XP)
  I have recently become somewhat enthusiastic about Test Driven Development primarily Ruby on Rails and AngularJS using Rspec, Capybara, Jasmine.
+
 
 ## Personal Projects
 
@@ -44,12 +49,12 @@ Qualifications which help to understand the bases of Accounting.
 
 ### University of Aberdeen
 
-- MA Economics & International Relations (2:1)
+- MA Economics & International Relations
 - Founder & President TEDxAberdeenU
 
 ## Work Experience
 
 - Financial Systems Consultant at Rinedata (2013-2015)
 - Co-founder at Go Tutors (2012-2013)
-- Founder and Head Organiser at TedxUnionTerrace (2012-2013)
+- Founder and Head Organiser at TEDxUnionTerrace (2012-2013)
 - Marketing and Business Development at Minival (2011-2012)
