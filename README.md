@@ -18,11 +18,18 @@ Using both online and offline resources to consistently grow and engage with a c
 
 I love organising and hosting events to promote company culture, branding and community engagement. It's a great way to show followers who you are and where you're going.
 
-- TEDxUnionTerrace [2013](https://www.youtube.com/watch?v=F5Is6xzZkf4&list=PLsRNoUx8w3rMt0281K97CCY5F9vw8CqsX) / [2014](https://www.youtube.com/watch?v=fOYz8YANfmw&list=PLsRNoUx8w3rMUzriQ3wP0Lu9m9EVCFTLu) - as founder of TEDxUnionTerrace I was head organiser and onstage host of two annual events before passing on the role
+- TEDxUnionTerrace [2013](https://www.youtube.com/watch?v=F5Is6xzZkf4&list=PLsRNoUx8w3rMt0281K97CCY5F9vw8CqsX) / [2014](https://www.youtube.com/watch?v=fOYz8YANfmw&list=PLsRNoUx8w3rMUzriQ3wP0Lu9m9EVCFTLu) - as founder of TEDxUnionTerrace I was head organiser and onstage host of two annual events before passing on the role.
+
+### Team Collaboration & Project Management
+
+Working within teams and managing projects has always been one of my strongest characteristics. I'd like to think I have a good knack for taking the lead when necessary as well as sitting back and being more analytical within a team.
+
+Rinedata - worked within teams as well as leads on projects to successfully implement financial management software around the UK
+
 
 ### Test Driven Development (XP)
 
- I have recently become somewhat enthusiastic about Test Driven Development primarily Ruby on Rails and AngularJS using Rspec, Capybara, Jasmine. Check out some of my personal projects!
+ I have recently become somewhat enthusiastic about Test Driven Development primarily Ruby on Rails and AngularJS using Rspec, Capybara, Jasmine. Writing SOLID code which leads to beautiful software has somewhat jumped to the top of my interests. Check out some of my personal projects!
 
 ## Personal Projects
 
