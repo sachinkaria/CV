@@ -2,7 +2,7 @@
 sachin.karia01@gmail.com || 0750 74 84 738
 
 
-I’m a sucker for positive disruption especially through software that brings together and connects people in different ways. I’m also a kick ass test driven Rails Developer, just recently out of the Makers Academy code immersion course which has engrained in me a modern, collaborative & agile approach to coding. I'm sure as hell ready to build on my love for product development through learning and creating the ins and outs of what it takes to build and launch beautiful software. I work best with teams of enthusiastic, optimistic individuals and early stage startups are a plus.
+I’m a sucker for positive disruption especially through software that brings together and connects people in different ways. I’m also a kick ass test driven Rails Developer, just recently out of the Makers Academy code immersion course which has engrained in me a modern, collaborative & agile approach to coding. I'm sure as hell ready to build on my love for product development through learning and creating the ins and outs of what it takes to build and launch beautiful software. I work best with teams of enthusiastic, optimistic individuals and startups are a plus.
 
 ## Skills
 
