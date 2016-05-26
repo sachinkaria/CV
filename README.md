@@ -37,6 +37,8 @@ Github: [AngularJS](https://github.com/acookson91/handl-frontend) / [Rails API](
 
 A recent project aiming to connect enthusiastic chefs with a dining space to foodies. Connecting and growing a community of food lovers through tech enabling them to save money, make money and share food. (Add online/digital platform)
 
+Github: [AngularJS](https://github.com/sachinkaria/comedineApp) / [Rails API](https://github.com/sachinkaria/comedine)
+
 Technologies: AngularJS, Ruby on Rails, Ionic, Rspec, Capybara, Jasmine
 
 ### What's Good
@@ -50,10 +52,10 @@ Technologies: AngularJS, Ruby on Rails, Ionic, Rspec, Capybara, Jasmine
 ### Makers Academy (February 1st - May 22nd 2016)
 
 - Passion for beautiful disruptive software
-- Learning and creating clean code
+- Learning and creating SOLID code
 - Big picture and detail orientated problem solving
 - OOP, TDD, SOLID, MVC, DDD
-- Ruby, Rails, Javascript, AngularJS
+- Ruby, Rails, Sinatra Javascript, AngularJS
 - Rspec, Capybara, Jasmine
 
 ### CIMA - Certificate
