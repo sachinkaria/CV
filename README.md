@@ -1,5 +1,5 @@
 # Sachin Karia
-sachin.karia01@gmail.com || 0750 74 84 738
+sachin.karia01@gmail.com || 0750 74 84 738 || London, UK
 
 
 I’m a sucker for positive disruption especially through software that brings together and connects people in different ways. I’m also a kick ass test driven Rails Developer, just recently out of the Makers Academy code immersion course which has engrained in me a modern, collaborative & agile approach to coding. I'm sure as hell ready to build on my love for product development through learning and creating the ins and outs of what it takes to build and launch beautiful software. I work best with teams of enthusiastic, optimistic individuals and startups are a plus.
@@ -24,7 +24,7 @@ I love organising and hosting events to promote company culture, branding and co
 
 Working within teams and managing projects has always been one of my strongest characteristics. I'd like to think I have a good knack for taking the lead when necessary as well as sitting back and being more analytical within a team.
 
-Rinedata - worked within teams as well as leads on projects to successfully implement financial management software around the UK
+[Rinedata](http://www.rinedata.com/) - worked within teams as well as leads on projects to successfully implement financial management software around the UK
 
 
 ### Test Driven Development (XP)
