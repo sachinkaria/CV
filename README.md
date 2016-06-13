@@ -42,7 +42,7 @@ Github: [AngularJS](https://github.com/acookson91/handl-frontend) / [Rails API](
 
 ### Dine with me
 
-A recent project aiming to connect enthusiastic chefs with a dining space to foodies. Connecting and growing a community of food lovers through tech enabling them to save money, make money and share food. (Add online/digital platform)
+A recent personal project aiming to connect enthusiastic chefs with a dining space to foodies. Connecting and growing a community of food lovers through tech enabling them to save money, make money and share food. Dine With Me aims to be an online platform giving chefs around London the opportunity to showcase their food.
 
 Github: [AngularJS](https://github.com/sachinkaria/comedineApp) / [Rails API](https://github.com/sachinkaria/comedine)
 
@@ -50,9 +50,9 @@ Technologies: AngularJS, Ruby on Rails, Ionic, Rspec, Capybara, Jasmine
 
 ### What's Good
 
-A project based on the dying concept of event poster advertising. What's Good follows a Pinterest based model primarily for events allowing event goers of all ages, in any city to find and attend events they love.
+A project based on the dying concept of event poster advertising. What's Good follows a Pinterest based model primarily for events allowing event goers of all ages, in any city to find, share and attend events they love.
 
-Technologies: AngularJS, Ruby on Rails, Ionic, Rspec, Capybara, Jasmine
+Technologies: ReactJS, NodeJS, Mocha, Chai, Express, MongoDB
 
 ## Education
 
@@ -62,7 +62,7 @@ Technologies: AngularJS, Ruby on Rails, Ionic, Rspec, Capybara, Jasmine
 - Learning and creating SOLID code
 - Big picture and detail orientated problem solving
 - OOP, TDD, SOLID, MVC, DDD
-- Ruby, Rails, Sinatra Javascript, AngularJS
+- Ruby, Rails, Sinatra Javascript, AngularJS, NodeJS, MEAN, MERN
 - Rspec, Capybara, Jasmine
 
 ### CIMA - Certificate
