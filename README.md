@@ -1,8 +1,8 @@
 # Sachin Karia
-sachin.karia01@gmail.com || 0750 74 84 738 || [Github](https://www.github.com/sachinkaria) || London, UK
+sachin.karia01@gmail.com || 0750 74 84 738 || [Github](https://www. github.com/sachinkaria) || London, UK
 
 
-I’m a sucker for positive disruption especially through software that brings together and connects people in different ways. I’m also a kick ass test driven Rails and Javascript Developer, just recently out of the Makers Academy code immersion course which has engrained in me a modern, collaborative & agile approach to coding. I'm sure as hell ready to build on my love for product development through learning and creating the ins and outs of what it takes to build and launch beautiful software. I work best with teams of enthusiastic, optimistic individuals and startups are a plus.
+I’m a sucker for positive disruption especially through software that brings together and connects people in different ways. I’m also a kick ass Marketer and Sales Executive, just recently out of the Makers Academy code immersion course which has engrained in me a modern, collaborative & agile approach to teamwork and product development. I'm sure as hell ready to build on my love for on the ground Sales and Marketing through learning and creating the ins and outs of what it takes to build and launch beautiful campaigns. I work best with teams of enthusiastic, optimistic individuals and startups are a plus.
 
 ## Skills
 
@@ -12,12 +12,7 @@ Working within teams and managing projects has always been one of my strongest c
 
 [Rinedata](http://www.rinedata.com/) - worked within teams as well as leads on projects to successfully implement financial management software around the UK
 
-
-### Test Driven Development (XP)
-
- I have recently become somewhat enthusiastic about Test Driven Development primarily Ruby on Rails and AngularJS using Rspec, Capybara, Jasmine. Writing SOLID code which leads to beautiful software has somewhat jumped to the top of my interests. Check out some of my personal projects!
-
-### Community Leadership
+### Community Leadership and Marketing
 
 Using both online and offline resources to consistently grow and engage with a community has become second nature to me.
 
@@ -31,22 +26,16 @@ I love organising and hosting events to promote company culture, branding and co
 
 - TEDxUnionTerrace [2013](https://www.youtube.com/watch?v=F5Is6xzZkf4&list=PLsRNoUx8w3rMt0281K97CCY5F9vw8CqsX) / [2014](https://www.youtube.com/watch?v=fOYz8YANfmw&list=PLsRNoUx8w3rMUzriQ3wP0Lu9m9EVCFTLu) - as founder of TEDxUnionTerrace I was head organiser and onstage host of two annual events before passing on the role.
 
+
+### Test Driven Development (XP)
+
+ I have recently become somewhat enthusiastic about Test Driven Development primarily Ruby on Rails and AngularJS using Rspec, Capybara, Jasmine. Writing SOLID code which leads to beautiful software has somewhat jumped to the top of my interests. Check out some of my personal projects!
+
 ## Personal Projects
 
-### Handl
+### Minival
 
-A delivery app which connects cyclists to companies who require packages to be delivered affordably and efficiently. This was a test driven project built in just under two weeks aiming to provide and present a working MVP.
-
-[Live Demo](https://youtu.be/oSti49Wp3A0) <br>
-Github: [AngularJS](https://github.com/acookson91/handl-frontend) / [Rails API](https://github.com/acookson91/handl-backend)
-
-### Dine with me
-
-A recent personal project aiming to connect enthusiastic chefs with a dining space to foodies. Connecting and growing a community of food lovers through tech enabling them to save money, make money and share food. Dine With Me aims to be an online platform giving chefs around London the opportunity to showcase their food.
-
-Github: [AngularJS](https://github.com/sachinkaria/comedineApp) / [Rails API](https://github.com/sachinkaria/comedine)
-
-Technologies: AngularJS, Ruby on Rails, Ionic, Rspec, Capybara, Jasmine
+A event platform that was launched in the 2008 in Aberdeen, Scotland. The events quickly expanded and through both progressive branding and community engagement quickly became Scotland's leading electronic music event connecting international artists with Scotland's music lovers through carnival style events and club nights.
 
 ### What's Good
 
