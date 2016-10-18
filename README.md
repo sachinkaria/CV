@@ -48,11 +48,11 @@ Github: [AngularJS](https://github.com/sachinkaria/comedineApp) / [Rails API](ht
 
 Technologies: AngularJS, Ruby on Rails, Ionic, Rspec, Capybara, Jasmine
 
-### What's Good
+### Pathfinder
 
-A project based on the dying concept of event poster advertising. What's Good follows a Pinterest based model primarily for events allowing event goers of all ages, in any city to find, share and attend events they love.
+A social media networking platform being design and built in collaboration with Camp Pathfinder to create a unique community for Pathfinder alumnis to engage and interact with each other.
 
-Technologies: ReactJS, NodeJS, Mocha, Chai, Express, MongoDB
+Technologies: ReactJS, Redux, Mocha, Chai, RailsAPI, Rspec
 
 ## Education
 
