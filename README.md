@@ -52,7 +52,7 @@ Technologies: AngularJS, Ruby on Rails, Ionic, Rspec, Capybara, Jasmine
 
 A social media networking platform being design and built in collaboration with Camp Pathfinder to create a unique community for Pathfinder alumnis to engage and interact with each other.
 
-Technologies: ReactJS, Redux, Mocha, Chai, RailsAPI, Rspec
+Technologies: [AngularJS](https://github.com/sachinkaria/pathfinder_frontend), Karma, Protractor, RailsAPI, Rspec
 
 ## Education
 
