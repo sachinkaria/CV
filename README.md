@@ -58,11 +58,11 @@ Technologies: [AngularJS](https://github.com/sachinkaria/pathfinder_frontend), K
 
 ### Makers Academy (February 1st - May 22nd 2016)
 
-- Passion for beautiful disruptive software
+- Passion for beautiful software
 - Learning and creating SOLID code
 - Big picture and detail orientated problem solving
 - OOP, TDD, SOLID, MVC, DDD
-- Ruby, Rails, Sinatra Javascript, AngularJS, NodeJS, MEAN, MERN
+- Ruby, Rails, Sinatra Javascript, AngularJS, ReactJS, NodeJS, MEAN, MERN
 - Rspec, Capybara, Jasmine
 
 ### CIMA - Certificate
