@@ -1,5 +1,5 @@
 # Sachin Karia
-sachin.karia01@gmail.com || 0750 74 84 738 || [Github](https://www.github.com/sachinkaria) || London, UK
+[Github](https://www.github.com/sachinkaria) || London, UK
 
 
 I’m a kick ass test driven Rails and Javascript Developer, specialising in full stack developement. A while back I graduated out of the Makers Academy code immersion course which has engrained in me a modern, collaborative & agile approach to coding. I'm sure as hell ready to build on my love for product development through learning and creating the ins and outs of what it takes to build and launch beautiful software. I work best with teams of enthusiastic, optimistic individuals and startups are a plus.
